@@ -4,4 +4,4 @@
 <p> ekibimiz bolumunde resimler arasina gutter koyamadim yani, resimler arasinda bosluk birakamadim </p>
 
 <h2> Gif yapildi</h2>
-![](ekran.gif)
+![](ekran.gif)# neda
